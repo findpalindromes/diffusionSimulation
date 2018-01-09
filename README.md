@@ -7,3 +7,5 @@ When the user presses the spacebar, the balls move in a random direction for a c
 the user continues to do this, the particles should achieve a state of equilibrium, meaning that the number of 
 red and blue balls on the left is equal to that on the right. For each particle group(red and blue), the user 
 is also able to adjust its speed and whether its particles are able to diffuse across the membrane. 
+
+Link to Project: https://www.khanacademy.org/computer-programming/diffusion-simulation-final/5982722955476992
